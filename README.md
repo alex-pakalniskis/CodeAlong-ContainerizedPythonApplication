@@ -1,2 +1,2 @@
 # CodeAlong-ContainerizedPythonApplication
-Following https://docs.docker.com/language/python/
+Working through https://docs.docker.com/language/python/
